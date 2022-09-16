@@ -10,6 +10,9 @@ const App = () => {
   const [state, setState] = useState("light");
   return (
     <div className="App">
+      <h1>
+        Transitioning an app between light and dark mode in CSS with Theme-UI
+      </h1>
       <div className="boxes">
         <Box p={4} color="text" bg="transparent" className="box">
           <div className="para">
@@ -38,7 +41,7 @@ const App = () => {
       </div>
       <div
         className="para2"
-        sx={{ fontWeight: "900", color: "text", fontSize: "20px" }}
+        sx={{ fontWeight: "900", color: "text", fontSize: "lol" }}
       >
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur
         qui dolorem eaque distinctio magni quasi deserunt ipsam possimus ea
