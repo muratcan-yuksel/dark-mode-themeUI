@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dark-mode-themeUI/static/css/main.f86743b7.css",
+    "main.js": "/dark-mode-themeUI/static/js/main.8edb7114.js",
+    "index.html": "/dark-mode-themeUI/index.html",
+    "main.f86743b7.css.map": "/dark-mode-themeUI/static/css/main.f86743b7.css.map",
+    "main.8edb7114.js.map": "/dark-mode-themeUI/static/js/main.8edb7114.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f86743b7.css",
+    "static/js/main.8edb7114.js"
+  ]
+}
