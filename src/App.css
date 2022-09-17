@@ -17,5 +17,11 @@
 }
 .box {
   border: solid;
-  width: auto;
+  width: 500px;
+  height: 500px;
+}
+
+.para {
+  line-height: 1.5rem;
+  margin-top: 1rem;
 }

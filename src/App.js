@@ -20,9 +20,13 @@ const App = () => {
             explicabo omnis? Laborum voluptatum explicabo unde quae totam,
             reprehenderit omnis delectus expedita quas non corporis, veniam nisi
             consectetur facilis, quam in.
-          </div>
-        </Box>{" "}
-        <Box p={4} color="text" bg="transparent" className="box">
+          </div>{" "}
+          <div className="para">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse,
+            explicabo omnis? Laborum voluptatum explicabo unde quae totam,
+            reprehenderit omnis delectus expedita quas non corporis, veniam nisi
+            consectetur facilis, quam in.
+          </div>{" "}
           <div className="para">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse,
             explicabo omnis? Laborum voluptatum explicabo unde quae totam,
@@ -30,14 +34,6 @@ const App = () => {
             consectetur facilis, quam in.
           </div>
         </Box>{" "}
-        <Box p={4} color="text" bg="transparent" className="box">
-          <div className="para">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse,
-            explicabo omnis? Laborum voluptatum explicabo unde quae totam,
-            reprehenderit omnis delectus expedita quas non corporis, veniam nisi
-            consectetur facilis, quam in.
-          </div>
-        </Box>
       </div>
       <div
         className="para2"
